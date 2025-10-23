@@ -1,0 +1,9 @@
+gql==3.4.1
+requests==2.31.0
+requests-toolbelt==1.0.0
+web3==6.11.3
+rich==13.7.0
+typer==0.9.0
+aiohttp==3.9.1
+asyncio==3.4.3
+setuptools>=68.0.0
